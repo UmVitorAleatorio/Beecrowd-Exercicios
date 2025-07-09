@@ -30,7 +30,8 @@ Each folder represents a single exercise, organized by its number and title.
 | 1066 | Pares, Ímpares, Positivos e Negativos | [1066](./1066) | 
 | 1067 | Números Ímpares                       | [1067](./1067) | 
 | 1070 | Seis Números Ímpares                  | [1070](./1070) |
-| 1070 | Soma de Impares Consecutivos I        | [1071](./1071) | 
+| 1071 | Soma de Impares Consecutivos I        | [1071](./1071) | 
+| 1072 | Intervalo 2                           | [1072](./1072) | 
 | 1088 | Bolhas e Balde                        | [1088](./1088) |
 
 ---
