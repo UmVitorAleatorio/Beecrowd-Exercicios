@@ -1,0 +1,38 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+target/
+*.ipr
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Build tools
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle
+mvnw
+mvnw.cmd
+/.mvn
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Arquivos de teste/ambiente
+.env
+*.local
