@@ -1,38 +1,38 @@
 # Exercícios BeeCrowd | BeeCrowd Exercises
 
 📘 Resoluções em Java dos desafios da plataforma [BeeCrowd](https://judge.beecrowd.com/pt/problems/index/1).  
-Cada pasta representa um exercício, organizado por número e título.  
+Cada pasta representa um exercício, organizado por número e título, dentro da pasta [`exercicios`](./exercicios).  
 > 💡 Projeto de estudo com foco em lógica, estrutura de dados e boas práticas em Java.
 
 📘 Solutions in Java for the challenges from the [BeeCrowd](https://judge.beecrowd.com/pt/problems/index/1).  
-Each folder represents a single exercise, organized by its number and title.  
+Each folder represents a single exercise, organized by its number and title, inside the [`exercicios`](./exercicios) folder.  
 > 💡 Study project focused on logic, data structures and good Java practices.
 
 ---
 
 ## 🗂️ Índice de Exercícios | Exercise Index
 
-| Nº   | Título (PT)                           | Pasta          |
-|------|---------------------------------------|----------------|
-| 1001 | Extremamente Básico                   | [1001](./1001) |  
-| 1015 | Distância Entre Dois Pontos           | [1015](./1015) |  
-| 1047 | Tempo de Jogo com Minutos             | [1047](./1047) |  
-| 1048 | Aumento de Salário                    | [1048](./1048) |  
-| 1049 | Animal                                | [1049](./1049) |  
-| 1050 | DDD                                   | [1050](./1050) |  
-| 1051 | Imposto de Renda                      | [1051](./1051) |  
-| 1052 | Mês                                   | [1052](./1052) |  
-| 1059 | Números Pares                         | [1059](./1059) |  
-| 1060 | Números Positivos                     | [1060](./1060) |  
-| 1061 | Tempo de um Evento                    | [1061](./1061) |  
-| 1064 | Positivos e Média                     | [1064](./1064) |  
-| 1065 | Pares entre Cinco Números             | [1065](./1065) |  
-| 1066 | Pares, Ímpares, Positivos e Negativos | [1066](./1066) | 
-| 1067 | Números Ímpares                       | [1067](./1067) | 
-| 1070 | Seis Números Ímpares                  | [1070](./1070) |
-| 1071 | Soma de Impares Consecutivos I        | [1071](./1071) | 
-| 1072 | Intervalo 2                           | [1072](./1072) | 
-| 1088 | Bolhas e Balde                        | [1088](./1088) |
+| Nº   | Título (PT)                           | Pasta                     |
+|------|---------------------------------------|---------------------------|
+| 1001 | Extremamente Básico                   | [1001](./exercicios/1001) |  
+| 1015 | Distância Entre Dois Pontos           | [1015](./exercicios/1015) |  
+| 1047 | Tempo de Jogo com Minutos             | [1047](./exercicios/1047) |  
+| 1048 | Aumento de Salário                    | [1048](./exercicios/1048) |  
+| 1049 | Animal                                | [1049](./exercicios/1049) |  
+| 1050 | DDD                                   | [1050](./exercicios/1050) |  
+| 1051 | Imposto de Renda                      | [1051](./exercicios/1051) |  
+| 1052 | Mês                                   | [1052](./exercicios/1052) |  
+| 1059 | Números Pares                         | [1059](./exercicios/1059) |  
+| 1060 | Números Positivos                     | [1060](./exercicios/1060) |  
+| 1061 | Tempo de um Evento                    | [1061](./exercicios/1061) |  
+| 1064 | Positivos e Média                     | [1064](./exercicios/1064) |  
+| 1065 | Pares entre Cinco Números             | [1065](./exercicios/1065) |  
+| 1066 | Pares, Ímpares, Positivos e Negativos | [1066](./exercicios/1066) | 
+| 1067 | Números Ímpares                       | [1067](./exercicios/1067) | 
+| 1070 | Seis Números Ímpares                  | [1070](./exercicios/1070) |
+| 1071 | Soma de Ímpares Consecutivos I        | [1071](./exercicios/1071) | 
+| 1072 | Intervalo 2                           | [1072](./exercicios/1072) | 
+| 1088 | Bolhas e Balde                        | [1088](./exercicios/1088) |
 
 ---
 
@@ -46,6 +46,5 @@ Each folder represents a single exercise, organized by its number and title.
 
 ## 📌 Sobre | About
 
-Desenvolvido por [Vitor da Silva Souza](https://github.com/UmVitorAleatorio)
-
+Desenvolvido por [Vitor da Silva Souza](https://github.com/UmVitorAleatorio)  
 Developed by [Vitor da Silva Souza](https://github.com/UmVitorAleatorio)
