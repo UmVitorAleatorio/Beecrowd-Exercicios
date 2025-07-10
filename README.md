@@ -32,6 +32,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1070 | Seis Números Ímpares                  | [1070](./exercicios/1070) |
 | 1071 | Soma de Ímpares Consecutivos I        | [1071](./exercicios/1071) | 
 | 1072 | Intervalo 2                           | [1072](./exercicios/1072) | 
+| 1073 | Quadrado de Pares                     | [1073](./exercicios/1073) | 
 | 1088 | Bolhas e Balde                        | [1088](./exercicios/1088) |
 
 ---
