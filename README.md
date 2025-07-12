@@ -37,6 +37,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1075 | Resto 2                               | [1075](./exercicios/1075) |
 | 1078 | Tabuada                               | [1078](./exercicios/1078) |
 | 1079 | Médias Ponderadas                     | [1079](./exercicios/1079) |
+| 1080 | Maior e Posição                       | [1080](./exercicios/1080) |
 | 1088 | Bolhas e Balde                        | [1088](./exercicios/1088) |
 
 ---
