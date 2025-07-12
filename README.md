@@ -34,6 +34,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1072 | Intervalo 2                           | [1072](./exercicios/1072) | 
 | 1073 | Quadrado de Pares                     | [1073](./exercicios/1073) | 
 | 1074 | Par ou Ímpar                          | [1074](./exercicios/1074) | 
+| 1075 | Resto 2                               | [1075](./exercicios/1075) |
 | 1088 | Bolhas e Balde                        | [1088](./exercicios/1088) |
 
 ---
