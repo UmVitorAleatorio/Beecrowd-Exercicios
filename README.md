@@ -40,6 +40,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1080 | Maior e Posição                       | [1080](./exercicios/1080) |
 | 1088 | Bolhas e Balde                        | [1088](./exercicios/1088) |
 | 1094 | Experiências                          | [1094](./exercicios/1094) |
+| 1095 | Sequencia IJ 1                        | [1095](./exercicios/1095) |
 
 ---
 
