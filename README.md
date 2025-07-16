@@ -42,6 +42,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1094 | Experiências                          | [1094](./exercicios/1094) |
 | 1095 | Sequencia IJ 1                        | [1095](./exercicios/1095) |
 | 1096 | Sequencia IJ 2                        | [1096](./exercicios/1096) |
+| 1097 | Sequencia IJ 3                        | [1097](./exercicios/1097) |
 
 ---
 
