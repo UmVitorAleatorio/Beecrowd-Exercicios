@@ -44,6 +44,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1096 | Sequencia IJ 2                        | [1096](./exercicios/1096) |
 | 1097 | Sequencia IJ 3                        | [1097](./exercicios/1097) |
 | 1098 | Sequencia IJ 4                        | [1098](./exercicios/1098) |
+| 1099 | Soma de Ímpares Consecutivos II       | [1099](./exercicios/1099) |
 
 ---
 
