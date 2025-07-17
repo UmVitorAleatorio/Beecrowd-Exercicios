@@ -47,6 +47,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1099 | Soma de Ímpares Consecutivos II       | [1099](./exercicios/1099) |
 | 1101 | Sequência de Números e Soma           | [1101](./exercicios/1101) |
 | 1113 | Crescente e Decrescente               | [1113](./exercicios/1113) |
+| 1114 | Senha Fixa                            | [1114](./exercicios/1114) |
 
 ---
 
