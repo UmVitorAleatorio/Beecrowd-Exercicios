@@ -52,6 +52,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1116 | Dividindo X por Y                     | [1116](./exercicios/1116) |
 | 1117 | Validação de Nota                     | [1117](./exercicios/1117) |
 | 1118 | Várias Notas Com Validação            | [1118](./exercicios/1118) |
+| 1131 | Derby Paulista                        | [1131](./exercicios/1131) |
 
 ---
 
