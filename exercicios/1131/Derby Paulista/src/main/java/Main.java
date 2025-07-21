@@ -29,7 +29,7 @@ public class Main {
         if (golsCorinthians > golsPalmeiras) {
             estatisticasDerby[0] += 1; //Vitória do Corinthians
         } else if (golsCorinthians == golsPalmeiras) {
-            estatisticasDerby[2] += 1; // Empate
+            estatisticasDerby[1] += 1; // Empate
         } else {
             estatisticasDerby[2] += 1; // Vitória do Palmeiras
         }
