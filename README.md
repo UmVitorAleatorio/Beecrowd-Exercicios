@@ -54,6 +54,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1118 | Várias Notas Com Validação            | [1118](./exercicios/1118) |
 | 1131 | Derby Paulista                        | [1131](./exercicios/1131) |
 | 1132 | Múltiplos de 13                       | [1132](./exercicios/1132) |
+| 1133 | Resto da Divisão                      | [1133](./exercicios/1133) |
 
 ---
 
