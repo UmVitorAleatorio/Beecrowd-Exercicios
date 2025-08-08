@@ -55,6 +55,7 @@ Each folder represents a single exercise, organized by its number and title, ins
 | 1131 | Derby Paulista                        | [1131](./exercicios/1131) |
 | 1132 | Múltiplos de 13                       | [1132](./exercicios/1132) |
 | 1133 | Resto da Divisão                      | [1133](./exercicios/1133) |
+| 1134 | Tipo de Combustível                   | [1134](./exercicios/1134) |
 
 ---
 
